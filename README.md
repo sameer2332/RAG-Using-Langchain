@@ -51,6 +51,7 @@ Use Cases
 
 -- AI search systems
 
+
 Contributing
 
-Contributions are welcome. You can improve or add new features.
+-- Contributions are welcome. You can improve or add new features.
