@@ -1,51 +1,55 @@
 RAG Using LangChain
 
-This project demonstrates Retrieval Augmented Generation (RAG) using LangChain.
-It allows you to load your own data, convert it to embeddings, and ask questions based on that data.
+-- This project demonstrates Retrieval Augmented Generation (RAG) using LangChain.
+-- It allows you to load your own data, convert it to embeddings, and ask questions based on that data.
+
 
 Features
 
-Loads and processes documents
+-- Loads and processes documents
 
-Creates embeddings from text
+-- Creates embeddings from text
 
-Stores embeddings in a vector database
+-- Stores embeddings in a vector database
 
-Uses an LLM to answer questions based on your data
+-- Uses an LLM to answer questions based on your data
 
-Easy to understand and modify
+-- Easy to understand and modify
+
 
 Tech Stack
 
-Python
+-- Python
 
-LangChain
+-- LangChain
 
-OpenAI (or any LLM)
+-- OpenAI (or any LLM)
 
-Vector Database (FAISS or similar)
+-- Vector Database (FAISS or similar)
+
 
 How It Works
 
-Load documents
+-- Load documents
 
-Convert text into embeddings
+-- Convert text into embeddings
 
-Store embeddings in a vector database
+-- Store embeddings in a vector database
 
-Ask questions based on the data
+-- Ask questions based on the data
 
-Get accurate responses using your own information
+-- Get accurate responses using your own information
+
 
 Use Cases
 
-Question answering systems
+-- Question answering systems
 
-Chatbots
+-- Chatbots
 
-Knowledge-based applications
+-- Knowledge-based applications
 
-AI search systems
+-- AI search systems
 
 Contributing
 
